@@ -1,0 +1,11 @@
+{
+  "danceId": "Dance ID # Same as the folder name",
+  "createAt": "YYYY-MM-DD",
+  "name": "开心摇",
+  "src": "vmd file path",
+  "audio": "audio file path",
+  "cover": "cover file path",
+  "thumb": "thumb file path",
+  "readme": "readme",
+  "camera": "camera file path"
+}
